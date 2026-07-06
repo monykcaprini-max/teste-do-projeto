@@ -1,14 +1,19 @@
+
 body {
-background-color: rgba(63, 63, 239, 0.478);
+    max-width: 100vw;
+  }
+
+body {
+background-color: rgba(232, 232, 239, 0.478);
 color:rgb(133, 173, 213);
 font-size: medium;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header{
-    background-color: rgb(16, 16, 158);
-    color: aliceblue;
+    background-color: rgb(131, 99, 217);
+    color: rgb(59, 50, 108);
     text-align: center;
-    max-width: 750px;
+    max-width: 780px;
     margin: 0 auto;
     padding: 16px;
     border: 5xp solid
@@ -16,8 +21,7 @@ header{
 }
 main {
 background-color: #fff;
-color: #063256; 
-max-width: 700px;
+color: #9e78dc; 
 margin: 0 auto;
 padding: 15px ;
 
