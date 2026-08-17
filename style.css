@@ -9,6 +9,10 @@
   --cor-fundo-body: #ffffff;
 }
 
+
+* {
+  transition: background-color 0.3s ease;
+}
 /* 2. Redefinição das variáveis para o Tema Escuro */
 body.tema-escuro {
   --cor-primaria: #555;
